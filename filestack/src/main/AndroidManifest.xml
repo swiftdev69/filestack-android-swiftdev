@@ -25,9 +25,6 @@
             </intent-filter>
 
         </activity>
-        <activity
-            android:name="com.filestack.android.FsActivity"
-            android:exported="true"/>
 
         <service
             android:name=".internal.UploadService"
